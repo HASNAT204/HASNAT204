@@ -4,6 +4,6 @@
 - 📫 How to reach me hasnatahmed800@gmail.com
 
 ![Screenshot 2023-01-13 225915](https://user-images.githubusercontent.com/69316523/212485831-ed624874-75aa-4d45-b936-c62ce74f6d59.png)
-![aws-logo](https://user-images.githubusercontent.com/69316523/212486207-21af606d-b7ce-4967-ba66-2e48e3a7cdb1.png)
-![1_xOqCfciF90c8nH0HhMpapQ](https://user-images.githubusercontent.com/69316523/212486210-b11acbd1-e76c-4fe0-a0e3-a8754349a14b.png)
-![social](https://user-images.githubusercontent.com/69316523/212486215-7a4e09cd-37a9-414a-8806-d0e8c1e1a878.png)
+![jN-wuufb_400x400](https://user-images.githubusercontent.com/69316523/212486329-bf93740a-2a92-4e9a-a8e0-530fdbedb058.jpg)
+![1_R4c8lHBHuH5qyqOtZb3h-w](https://user-images.githubusercontent.com/69316523/212486334-f167843a-00c4-4349-b91b-9c4ecbec0d20.png)
+![aws-logo](https://user-images.githubusercontent.com/69316523/212486338-34620b61-1e24-47a0-b79e-fa952ff72b8e.png)
