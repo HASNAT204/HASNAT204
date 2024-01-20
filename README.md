@@ -5,9 +5,7 @@
 
 <p>
   <em>
-    I am a Computer Science graduate from <a href="https://www.nu.edu.pk/"> <b>FAST NUCES</b></a>.  
-    A Full Stack <b>Ruby on Rails Developer</b>, Research Assistant and a <b>Data Enthusiast,</b> who is <b>motivated</b>
-    by fear of being average and wants a <b>platform</b> to 
+   Senior backend engineer with focus on Ruby on Rails 🚀, Data Pipelines(ETL, ELT) 🪴(AWS Glue, Redshift, Meltano, dbt💭). Love to code in Ruby/JavaScript/TypeScript/Python 🤖. Extensively worked on scaling existing apps and building product features and query optimization techniques to improve server performance. Efficiently handled background jobs using redis and sidekiq. Resolved roll bar errors on production and ensured code quality to meet standards. Executed PRS on production environments.Worked on different project management tools jira, asana and CI/CD pipelines using CodeShip, Bitbucket, GitHub actions and PaaS platforms Heroku, AWS.  Love to solve complex engineering problems and scaling backend systems 🌟.
     <b>grow 🚀 </b> and 
     <b>excel. ⭐</b>
   </em>  
