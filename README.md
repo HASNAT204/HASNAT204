@@ -5,8 +5,7 @@
 
 
 <article>
-        <p>Senior Backend Engineer with focus on Ruby on Rails 🚀
-         Data Pipelines (ETL, ELT) 🪴 (AWS Glue, Redshift, Meltano, dbt💭). Love to code in Ruby/JavaScript/TypeScript/Python 🤖.</p>
+         Senior Backend Engineer with focus on Ruby on Rails 🚀 and Data Pipelines (ETL, ELT) 🪴 (AWS Glue, Redshift, Meltano, dbt💭). Love to code in Ruby/JavaScript/TypeScript/Python 🤖.
          Extensively worked on scaling existing apps and building product features, employing query optimization techniques to improve server performance.
         <p>Efficiently handled background jobs using Redis and Sidekiq. Resolved Rollbar errors on production and ensured code quality to meet standards.</p>
         <p>Executed PRs on production environments. Worked on different project management tools like Jira, Asana, and CI/CD pipelines using CodeShip, Bitbucket, GitHub actions, and PaaS platforms Heroku, AWS.</p>
