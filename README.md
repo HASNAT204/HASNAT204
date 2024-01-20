@@ -10,24 +10,18 @@
         <p>Efficiently handled background jobs using Redis and Sidekiq. Resolved Rollbar errors on production and ensured code quality to meet standards.</p>
     </article>
 
-- 🌱 I’m currently learning Data Engineering.
-- 💬 Ask me about Ruby On Rails xD
+- 🌱 I’m currently learning Data Engineering and Data Analytics.
+- 💬 Ask me about Ruby On Rails
 - 📫 How to reach me: hasnatahmed800@gmail.com
 
 
 <br>
 
 ### Let's Connect 🔥
-<a href="https://github.com/iem-hasnat/">
+<a href="https:https://github.com/HASNAT204">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.linkedin.com/in/iemhasnat/">
+<a href="https://www.linkedin.com/in/hasnat-ahmed-sandhu/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://x.facebook.com/iemsaaad">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
-<a href="https://twitter.com/iem_hasnat">
-<img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>  
-<a href="https://www.instagram.com/iem.hasnat/">
-<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
 <a href="mailto:iem.hasnatahmed800@gmail.com">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <br><br>
