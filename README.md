@@ -51,11 +51,6 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{HASNAT204}/count.svg)
 
-### 📊 Profile Stats
-<div align="center">
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASNAT204&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-</div>
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">I'm all about connecting with new folks! Don't hesitate to say Hi 👋 – I'm excited to get to know you better!</p>
   
