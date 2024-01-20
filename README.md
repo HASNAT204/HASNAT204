@@ -18,7 +18,7 @@
 <br>
 
 ### Let's Connect 🔥
-<a href="https:https://github.com/HASNAT204">
+<a href="https://github.com/HASNAT204">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.linkedin.com/in/hasnat-ahmed-sandhu/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
