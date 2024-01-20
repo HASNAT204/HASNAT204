@@ -1,7 +1,4 @@
 ![Frame 4](https://github.com/HASNAT204/HASNAT204/assets/69316523/ec71e001-d2da-4082-8506-2a1860cc800a)
-<p align="center"><a href="https://iem-hasnat.github.io/"><img width="80%" alt="Hello, I'm Hasnat. I do open source!" src="./assets/iem-hasnat-gh-readme-header.png" /></a></p>
-
-<img align="right" alt="PC GIF" src="./assets/iem-hasnat-gh-computer.gif" width="350" />
 
    <article>
         <h1>Senior Backend Engineer with focus on Ruby on Rails 🚀 and Data Pipelines (ETL, ELT) 🪴</h1>
@@ -48,5 +45,5 @@
 <br><br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">I'm all about connecting with new folks! Don't hesitate to say Hi 👋 – I'm excited to get to know you better!</p>
+<p align="center">Let's solve engineering problems together!</p>
   
