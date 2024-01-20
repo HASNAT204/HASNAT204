@@ -3,62 +3,20 @@
 
 <img align="right" alt="PC GIF" src="./assets/iem-hasnat-gh-computer.gif" width="350" />
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            max-width: 800px;
-            margin-left: auto;
-            margin-right: auto;
-        }
 
-        h1 {
-            color: #333;
-            font-size: 28px;
-            margin-bottom: 15px;
-        }
-
-        p {
-            color: #555;
-            font-size: 16px;
-            margin-bottom: 10px;
-        }
-
-        article {
-            background-color: #f9f9f9;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin-bottom: 30px;
-        }
-    </style>
-    <title>Senior Backend Engineer Profile</title>
-</head>
-<body>
-
-    <article>
-        <h1>Senior Backend Engineer with focus on Ruby on Rails 🚀</h1>
+<article>
+        <p>Senior Backend Engineer with focus on Ruby on Rails 🚀</p>
         <p>Data Pipelines (ETL, ELT) 🪴 (AWS Glue, Redshift, Meltano, dbt💭). Love to code in Ruby/JavaScript/TypeScript/Python 🤖.</p>
         <p>Extensively worked on scaling existing apps and building product features, employing query optimization techniques to improve server performance.</p>
         <p>Efficiently handled background jobs using Redis and Sidekiq. Resolved Rollbar errors on production and ensured code quality to meet standards.</p>
         <p>Executed PRs on production environments. Worked on different project management tools like Jira, Asana, and CI/CD pipelines using CodeShip, Bitbucket, GitHub actions, and PaaS platforms Heroku, AWS.</p>
         <p>Love to solve complex engineering problems and scale backend systems 🌟.</p>
-    </article>
-
-</body>
-</html>
+</article>
 
 - 🌱 I’m currently learning Data Engineering.
-- 👯 I’m looking for masters and to collaborate on Open Source Projects.
 - 💬 Ask me about Ruby On Rails xD
 - 📫 How to reach me: hasnatahmed800@gmail.com
-- ⚡ Fun fact: Did you Know? When you see the sun, you're looking at 8-minutes-20-seconds-old light, as It takes time for light to reach us. The light from Earth’s nearest star Proxima Centauri is four years old.
+
 
 <br>
 
