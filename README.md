@@ -3,7 +3,14 @@
 
 <img align="right" alt="PC GIF" src="./assets/iem-hasnat-gh-computer.gif" width="350" />
 
-<p>Senior backend engineer with focus on Ruby on Rails 🚀, Data Pipelines(ETL, ELT)🪴(AWS Glue, Redshift, Meltano, dbt💭).Love to code in Ruby/JavaScript/TypeScript/Python 🤖. Extensively worked on scaling existing apps and building product features and query optimization techniques to improve server performance. Efficiently handled background jobs using redis and sidekiq. Resolved roll bar errors on production and ensured code quality to meet standards. Executed PRS on production environments.Worked on different project management tools jira, asana and CI/CD pipelines using CodeShip, Bitbucket, GitHub actions and PaaS platforms Heroku, AWS.Love to solve complex engineering problems and scaling backend systems 🌟.</p>
+  <article>
+        <h1>Senior Backend Engineer with focus on Ruby on Rails 🚀</h1>
+        <p>Data Pipelines (ETL, ELT) 🪴 (AWS Glue, Redshift, Meltano, dbt💭). Love to code in Ruby/JavaScript/TypeScript/Python 🤖.</p>
+        <p>Extensively worked on scaling existing apps and building product features, employing query optimization techniques to improve server performance.</p>
+        <p>Efficiently handled background jobs using Redis and Sidekiq. Resolved Rollbar errors on production and ensured code quality to meet standards.</p>
+        <p>Executed PRs on production environments. Worked on different project management tools like Jira, Asana, and CI/CD pipelines using CodeShip, Bitbucket, GitHub actions, and PaaS platforms Heroku, AWS.</p>
+        <p>Love to solve complex engineering problems and scale backend systems 🌟.</p>
+    </article>
 
 - 🌱 I’m currently learning Data Engineering.
 - 👯 I’m looking for masters and to collaborate on Open Source Projects.
