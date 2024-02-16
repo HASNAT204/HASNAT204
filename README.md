@@ -3,8 +3,6 @@
    <article>
         <h1>Backend Engineer with focus on Ruby on Rails 🚀 and Node.js🪴</h1>
         <p>Love to code in Ruby/JavaScript/TypeScript 🤖.</p>
-        <p>Extensively worked on scaling existing apps and building product features, employing query optimization techniques to improve server performance.</p>
-        <p>Efficiently handled background jobs using Redis and Sidekiq. Resolved Rollbar errors on production and ensured code quality to meet standards.</p>
     </article>
 
 - 💬 Ask me about Ruby On Rails and Node.js
