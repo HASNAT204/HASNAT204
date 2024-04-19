@@ -1,5 +1,5 @@
    <article>
-        <h1>Backend Engineer with focus on Ruby on Rails 🚀 and Node.js🪴</h1>
+        <h1> Full Stack Software Engineer 🚀🪴 </h1>
         <p>Love to code in Ruby/JavaScript/TypeScript 🤖.</p>
     </article>
 
