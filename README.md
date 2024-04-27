@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/hasnat-ahmed-sandhu/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
 <a href="mailto:iem.hasnatahmed800@gmail.com">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)"/>
 <br><br>
 
 ### Tools & Technologies 🛠 I'm specialized in.
