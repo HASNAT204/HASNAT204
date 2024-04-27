@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <br><br>
 
-### Tools & Technologies 🛠
+### Tools & Technologies 🛠 I'm specialized in.
 
 <div>
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
