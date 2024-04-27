@@ -1,6 +1,6 @@
 # Senior Full Stack Software Engineer 🚀🪴
 
-*Simplicity is the ultimate sophistication.*
+**Simplicity is the ultimate sophistication.**
 
 ### Let's Connect 🔥
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hasnat-ahmed-sandhu/)
