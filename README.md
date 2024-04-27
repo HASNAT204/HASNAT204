@@ -1,12 +1,8 @@
    <article>
         <h1> Senior Full Stack Software Engineer 🚀🪴 </h1>
-        <p>Love to code in Ruby/JavaScript/TypeScript 🤖.</p>
+        <p>Simplicity is the ultimate sophistication.</p>
     </article>
-
-- 💬 Ask me about Ruby On Rails and Node.js
-- 📫 How to reach me: hasnatahmed800@gmail.com
-
-
+    
 <br>
 
 ### Let's Connect 🔥
