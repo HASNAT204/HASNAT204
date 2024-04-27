@@ -3,7 +3,6 @@
 *Simplicity is the ultimate sophistication.*
 
 ### Let's Connect 🔥
-[![GitHub](https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/HASNAT204)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hasnat-ahmed-sandhu/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iem.hasnatahmed800@gmail.com)
 
