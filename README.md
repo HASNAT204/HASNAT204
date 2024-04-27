@@ -1,5 +1,5 @@
    <article>
-        <h1> Full Stack Software Engineer 🚀🪴 </h1>
+        <h1> Senior Full Stack Software Engineer 🚀🪴 </h1>
         <p>Love to code in Ruby/JavaScript/TypeScript 🤖.</p>
     </article>
 
