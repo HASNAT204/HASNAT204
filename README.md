@@ -15,6 +15,7 @@ with 5+ years of experience in JS Stacks and Rails.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-3178C6?style=for-the-badge&labelColor=black&logoColor=white)
 ![tanstack query](https://img.shields.io/badge/tanstack_query-3178C6?style=for-the-badge&logo=tanstack&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-364153?style=for-the-badge)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-6e5c97?style=for-the-badge)
