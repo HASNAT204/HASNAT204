@@ -1,4 +1,4 @@
-# Senior Full Stack Software Engineer 🚀🪴
+# Senior Full Stack Software Engineer 
 
 *Simplicity is the ultimate sophistication.*
 
