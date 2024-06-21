@@ -1,5 +1,5 @@
 # Senior Full Stack Software Engineer 
-with 5+ years of experience
+with 5+ years of experience in JS Stacks and Rails.
 
 *Simplicity is the ultimate sophistication.*
 
