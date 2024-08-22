@@ -37,4 +37,7 @@ with 7+ years of experience in JS Stacks and Rails.
 
 ---
 
+
+![DALL·E 2024-08-22 16 09 21 - A modern and sleek illustration representing a software company named 'Backend Bridges ' The design should incorporate elements of JavaScript stacks a](https://github.com/user-attachments/assets/8610ed64-24dc-4bdd-aea7-d055670ea707)
+
 <p align="center">Let's solve engineering problems together!</p>
