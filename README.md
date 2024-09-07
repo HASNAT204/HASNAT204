@@ -2,7 +2,7 @@
 Hi, I'm Hasnat Ahmed Technical Consultant JS 👋 
 
 # Full Stack Software Engineer 
-Experienced Software Engineer backed by a Bachelor's degree in Computer Science and over **6** Experienced Software Engineer backed by a Bachelor's degree in Computer Science and over 6 years of expertise in scalable systems, advanced software design architectural skills, and a clean code philosophy practitioner. Proficient in agile environments, automated software testing, and DevOps. With a proactive approach, I excel at assisting coworkers and solving issues, leveraging my extensive experience to build user-centric applications. As a versatile and audacious professional, my passion lies in utilizing my knowledge to create well-constructed applications that positively impact people's lives and meet businesses' needs effectively.
+Experienced Software Engineer backed by a Bachelor's degree in Computer Science and over **6** years of expertise in scalable systems, advanced software design architectural skills, and a clean code philosophy practitioner. Proficient in agile environments, automated software testing, and DevOps. With a proactive approach, I excel at assisting coworkers and solving issues, leveraging my extensive experience to build user-centric applications. As a versatile and audacious professional, my passion lies in utilizing my knowledge to create well-constructed applications that positively impact people's lives and meet businesses' needs effectively.
 
 I always put users first, making sure they have the best experience possible. I love learning and am always up for new challenges.
 
