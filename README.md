@@ -1,8 +1,8 @@
 
-Hi, I'm Hasnat Ahmed 👋
+Hi, I'm Hasnat Ahmed Technical Consultant JS 👋 
 
 # Full Stack Software Engineer 
-with 5+ years of experience in JS Stacks and Rails.
+with 6+ years of experience in JS Stacks.
 
 *Simplicity is the ultimate sophistication.*
 
