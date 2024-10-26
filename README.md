@@ -5,7 +5,7 @@ Experienced Software Engineer backed by a Bachelor's degree in Computer Science 
 
 I always put users first, making sure they have the best experience possible. I love learning and am always up for new challenges.
 
-Skill Set: Node.js, React.js, Next.js, Nest.js, GCP, AWS, Javascript, Typescript, Automated software testing, Terraform, GitHub Actions, Redis, Pub/Sub, PostgreSQL, MySQL, MongoDB.
+##Skill Set: Node.js, React.js, Next.js, Nest.js, GCP, AWS, Javascript, Typescript, Automated software testing, Terraform, GitHub Actions, Redis, Pub/Sub, PostgreSQL, MySQL, MongoDB.
 
 *Simplicity is the ultimate sophistication.*
 
