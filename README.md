@@ -12,6 +12,8 @@ I always put users first, making sure they have the best experience possible. I 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hasnat-ahmed-sandhu/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iem.hasnatahmed800@gmail.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HASNAT204)](https://git.io/streak-stats)
+
 
 
 ### Tools & Technologies 🛠 I'm specialized in.
