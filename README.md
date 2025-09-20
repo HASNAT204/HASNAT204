@@ -5,7 +5,6 @@
 
 I excel in agile environments, automated testing, DevOps, and solving complex engineering challenges while always putting users first.
 
-*"Simplicity is the ultimate sophistication - now enhanced with artificial intelligence."*
 
 ---
 
