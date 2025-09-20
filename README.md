@@ -10,8 +10,6 @@ I always put users first, making sure they have the best experience possible. I 
 *Simplicity is the ultimate sophistication.*
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HASNAT204)](https://git.io/streak-stats)
-
 
 
 ### Tools & Technologies 🛠 I'm specialized in.
